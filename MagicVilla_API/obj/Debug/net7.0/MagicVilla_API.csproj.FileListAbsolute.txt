@@ -80,3 +80,4 @@ C:\Users\Cristian\source\repos\MagicVilla\MagicVilla_API\bin\Debug\net7.0\runtim
 C:\Users\Cristian\source\repos\MagicVilla\MagicVilla_API\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Cristian\source\repos\MagicVilla\MagicVilla_API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Cristian\source\repos\MagicVilla\MagicVilla_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Cristian\source\repos\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
